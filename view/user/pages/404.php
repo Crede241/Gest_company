@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="en" dir="ltr">
+<html class="no-js" lang="fr">
 
 <head>
     <base href="/balance/">
@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>:: My-Task:: 404 Page</title>
+    <title>Erreur page introuvable - Balance</title>
     <link rel="icon" href="../favicon.ico" type="image/x-icon"> <!-- Favicon-->
     <!-- project css file  -->
     <link rel="stylesheet" href="public/assets/css/my-task.style.min.css">
@@ -54,11 +54,7 @@
                                     <span class="text-light">Sorry, the page you're looking for doesn;t exist. if you think something is brlken, report a problem.</span>
                                 </div>
                                 <div class="col-12 text-center">
-<<<<<<< HEAD
-                                    <a href="index.html" title="" class="btn btn-lg btn-block btn-light lift text-uppercase">Back to Home</a>
-=======
                                     <a href="home" title="" class="btn btn-lg btn-block btn-light lift text-uppercase">Back to Home</a>
->>>>>>> 22e3733 (initial commit)
                                 </div>
                             </form>
                             <!-- End Form -->

@@ -11,10 +11,6 @@ use Model\Category;
 use Model\Company;
 use Model\Finance;
 
-<<<<<<< HEAD
-
-
-=======
 $Ca=new Category();
 $Us=new User();
 function userCompanyPage(){
@@ -57,4 +53,3 @@ function userCategoryPage(){
 function categoryInformation(){
     require "view/user/pages/information-category.php";
 }
->>>>>>> 22e3733 (initial commit)

@@ -4,37 +4,20 @@ require_once "model/Accounting.php";
 require_once "model/Category.php";
 require_once "model/Company.php";
 require_once "model/Finance.php";
-<<<<<<< HEAD
-=======
 require_once "model/Department.php";
->>>>>>> 22e3733 (initial commit)
 
 use Model\User;
 use Model\Accounting;
 use Model\Category;
 use Model\Company;
 use Model\Finance;
-<<<<<<< HEAD
-
-function userHomePage(){
-    require "view/user/pages/home.php";
-}
-
-function user404(){
-    require "view/user/pages/404.php";
-}
-
-function userLoginPage(){
-    require "view/user/pages/login.php";
-}
-=======
 use Model\Department;
 
 
 $Us = new User();
-$Ac = new  Accounting();
+$Ac = new Accounting();
 $De = new Department();
-$Ca= new Category();
+$Ca = new Category();
 
 function userHomePage()
 {
@@ -51,6 +34,7 @@ function userLoginPage()
 {
     require "view/user/pages/login.php";
 }
+
 
 function userLogin($email, $password)
 {
@@ -90,7 +74,7 @@ function getMyDepartment()
 function getMyCompany()
 {
     $department = getMyDepartment();
-    return $Co = new  Company($department["id_company"]);
+    return $Co = new Company($department["id_company"]);
 }
 
 function getExpenses($user)
@@ -104,7 +88,7 @@ function getExpenses($user)
 function getInformation($id_user)
 {
     global $Us;
-    $sel = $Us->selectById($id_user);
+    $sel = $Us->fetch_info($id_user);
     return $sel;
 }
 
@@ -159,5 +143,3 @@ function updatePassword($id_user, $old_password, $password)
         echo toastJson("error", "Désolés, un problème est survenu. Merci de réessayer.", "Erreur");
     }
 }
-
->>>>>>> 22e3733 (initial commit)
