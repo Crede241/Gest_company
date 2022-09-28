@@ -35,11 +35,7 @@
                                 </svg>
                             </div>
                             <div class="mb-5">
-<<<<<<< HEAD
-                                <h2 class="color-900 text-center">My-Task Let's Management Better</h2>
-=======
                                 <h2 class="color-900 text-center">Mytech Balance</h2>
->>>>>>> 22e3733 (initial commit)
                             </div>
                             <!-- Image block -->
                             <div class="">
@@ -50,26 +46,6 @@
                     <div class="col-lg-6 d-flex justify-content-center align-items-center border-0 rounded-lg auth-h100">
                         <div class="w-100 p-3 p-md-5 card border-0 bg-dark text-light" style="max-width: 32rem;">
                             <!-- Form -->
-<<<<<<< HEAD
-                            <form class="row g-1 p-3 p-md-4">
-                                <div class="col-12 text-center mb-1 mb-lg-5">
-                                    <h1>Sign in</h1>
-                                    <span>Free access to our dashboard.</span>
-                                </div>
-                                <div class="col-12 text-center mb-4">
-                                    <a class="btn btn-lg btn-outline-secondary btn-block" href="#">
-                                        <span class="d-flex justify-content-center align-items-center">
-                                            <img class="avatar xs me-2" src="public/assets/images/google.svg" alt="Image Description">
-                                            Sign in with Google
-                                        </span>
-                                    </a>
-                                    <span class="dividers text-muted mt-4">OR</span>
-                                </div>
-                                <div class="col-12">
-                                    <div class="mb-2">
-                                        <label class="form-label">Email address</label>
-                                        <input type="email" class="form-control form-control-lg" placeholder="name@example.com">
-=======
                             <form id="loginForm" class="row g-1 p-3 p-md-4">
                                 <div class="col-12 text-center mb-1 mb-lg-5">
                                     <h1>Authentification</h1>
@@ -83,49 +59,29 @@
                                         <input id="userEmail" name="email" type="email" class="form-control form-control-lg" placeholder="name@example.com">
                                         <div id="errEmail"></div>
 
->>>>>>> 22e3733 (initial commit)
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="mb-2">
                                         <div class="form-label">
                                             <span class="d-flex justify-content-between align-items-center">
-<<<<<<< HEAD
-                                                Password
-                                                <a class="text-secondary" href="auth-password-reset.html">Forgot Password?</a>
-                                            </span>
-                                        </div>
-                                        <input type="password" class="form-control form-control-lg" placeholder="***************">
-=======
                                                 Mot de passe
                                                 <a class="text-secondary" href="auth-password-reset.html">Mot de passe oublié</a>
                                             </span>
                                         </div>
                                         <input id="userPassword" name="password" type="password" class="form-control form-control-lg" placeholder="***************">
                                         <div id="errPassword"></div>
->>>>>>> 22e3733 (initial commit)
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-check">
                                         <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
                                         <label class="form-check-label" for="flexCheckDefault">
-<<<<<<< HEAD
-                                            Remember me
-=======
                                             Se souvenir de moi
->>>>>>> 22e3733 (initial commit)
                                         </label>
                                     </div>
                                 </div>
                                 <div class="col-12 text-center mt-4">
-<<<<<<< HEAD
-                                    <a href="index.html" class="btn btn-lg btn-block btn-light lift text-uppercase" atl="signin">SIGN IN</a>
-                                </div>
-                                <div class="col-12 text-center mt-4">
-                                    <span class="text-muted">Don't have an account yet? <a href="auth-signup.html" class="text-secondary">Sign up here</a></span>
-                                </div>
-=======
                                     <button type="submit" class="btn btn-lg btn-block btn-light lift text-uppercase" atl="signin">SE CONNECTER</button>
                                 </div>
 
@@ -134,7 +90,6 @@
                                 </div>
                                <-->
 
->>>>>>> 22e3733 (initial commit)
                             </form>
                             <!-- End Form -->
                         </div>
@@ -147,8 +102,6 @@
 
 <!-- Jquery Core Js -->
 <script src="public/assets/bundles/libscripts.bundle.js"></script>
-<<<<<<< HEAD
-=======
 <script src="public/js/jquery.min.js"></script>
 <script>
     $("#loginForm").submit(function () {
@@ -194,7 +147,6 @@
         return false;
     })
 </script>
->>>>>>> 22e3733 (initial commit)
 
 </body>
 </html>

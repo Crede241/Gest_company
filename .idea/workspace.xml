@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:crede" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:crede" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3baef3c-e5e3-4293-9f89-aeb82d87cd8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/view/user/include/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/pageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/pageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/userController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/userController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Accounting.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/Accounting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Company.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/Company.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/DataBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/DataBase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/user/include/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/user/include/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/user/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/user/include/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/user/pages/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/user/pages/404.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/user/pages/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/user/pages/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/user/pages/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/user/pages/login.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2F8zEKkR9gLN9Eiayz6qAAbZzBI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="settings.editor.splitter.proportion" value="0.19402985" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\balance\view\admin\pages" />
+      <recent name="C:\xampp\htdocs\balance\view\admin\include" />
+      <recent name="C:\xampp\htdocs\balance\public" />
+      <recent name="C:\xampp\htdocs\balance\view\user\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\balance" />
+      <recent name="C:\xampp\htdocs\balance\view\user" />
+      <recent name="C:\xampp\htdocs\balance\view\user\pages" />
+      <recent name="C:\xampp\htdocs\balance\view\user\include" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3baef3c-e5e3-4293-9f89-aeb82d87cd8b" name="Default Changelist" comment="" />
+      <created>1663888386857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663888386857</updated>
+      <workItem from="1663888393649" duration="767000" />
+      <workItem from="1663889218997" duration="1260000" />
+      <workItem from="1663926710378" duration="951000" />
+      <workItem from="1664051210902" duration="683000" />
+      <workItem from="1664126566917" duration="10137000" />
+      <workItem from="1664190740661" duration="980000" />
+      <workItem from="1664272962347" duration="410000" />
+      <workItem from="1664314999695" duration="294000" />
+      <workItem from="1664377157818" duration="16650000" />
+      <workItem from="1664453453895" duration="24238000" />
+      <workItem from="1664533576730" duration="11118000" />
+      <workItem from="1664618642748" duration="12518000" />
+      <workItem from="1664885835859" duration="1004000" />
+      <workItem from="1665006713432" duration="7873000" />
+      <workItem from="1665160829284" duration="3142000" />
+      <workItem from="1665179692249" duration="14293000" />
+      <workItem from="1665439545870" duration="11021000" />
+      <workItem from="1665524080698" duration="551000" />
+      <workItem from="1665579563136" duration="3218000" />
+      <workItem from="1665613001120" duration="4030000" />
+      <workItem from="1665651334675" duration="9788000" />
+      <workItem from="1665747993956" duration="4039000" />
+      <workItem from="1665760880317" duration="19338000" />
+      <workItem from="1665840456022" duration="1617000" />
+      <workItem from="1665860909482" duration="3446000" />
+      <workItem from="1666000501581" duration="10621000" />
+      <workItem from="1666028723359" duration="328000" />
+      <workItem from="1666029098028" duration="24370000" />
+      <workItem from="1666127266394" duration="7547000" />
+      <workItem from="1666179153379" duration="3665000" />
+      <workItem from="1666209689918" duration="33430000" />
+      <workItem from="1666299539101" duration="42986000" />
+      <workItem from="1666391461536" duration="12131000" />
+      <workItem from="1666433442209" duration="11797000" />
+      <workItem from="1666460068418" duration="6927000" />
+      <workItem from="1666477056079" duration="7265000" />
+      <workItem from="1666532126630" duration="659000" />
+      <workItem from="1666542045059" duration="37000" />
+      <workItem from="1666546967622" duration="7479000" />
+      <workItem from="1666562514478" duration="6629000" />
+      <workItem from="1666619524428" duration="327000" />
+      <workItem from="1666621336571" duration="15677000" />
+      <workItem from="1666649759542" duration="3907000" />
+      <workItem from="1666699859510" duration="4526000" />
+      <workItem from="1666722670648" duration="24346000" />
+      <workItem from="1666776329901" duration="9216000" />
+      <workItem from="1666790443025" duration="6293000" />
+      <workItem from="1666804334455" duration="2933000" />
+      <workItem from="1666817492324" duration="3065000" />
+      <workItem from="1666825571618" duration="1490000" />
+      <workItem from="1666829931475" duration="1318000" />
+      <workItem from="1666914969388" duration="156000" />
+      <workItem from="1666967460461" duration="1250000" />
+      <workItem from="1666975984719" duration="1398000" />
+      <workItem from="1667042731929" duration="14938000" />
+      <workItem from="1667214671595" duration="6649000" />
+      <workItem from="1667308121446" duration="3643000" />
+      <workItem from="1667593413725" duration="6270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1667047880435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1667047880435" />
+    <state x="504" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1664134955228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="504" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1664134955228" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1666548945773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1666548945773" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1666790576871">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1666790576871" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1666790646252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1666790646252" />
+    <state x="508" y="71" key="NewPhpClassDialog" timestamp="1665015959674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="508" y="71" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1665015959674" />
+    <state x="517" y="283" key="NewPhpFileDialog" timestamp="1666731818780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="283" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1666731818780" />
+    <state x="62" y="12" width="1223" height="708" key="SettingsEditor" timestamp="1667046050790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="62" y="12" width="1223" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1667046050790" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1666481315915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1666481315915" />
+    <state x="0" y="0" width="583" height="728" key="find.popup" timestamp="1665443697715">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="583" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1665443697715" />
+    <state x="508" y="134" key="refactoring.ChangeSignatureDialog" timestamp="1666458055826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="508" y="134" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1666458055826" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1666733753089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1666733753089" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1666444375637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1666444375637" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/doc/mytask-projectmanagement/Html/dist/expenses.html</url>
+          <line>742</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

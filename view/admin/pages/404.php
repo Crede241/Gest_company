@@ -54,11 +54,7 @@
                                     <span class="text-light">Sorry, the page you're looking for doesn;t exist. if you think something is brlken, report a problem.</span>
                                 </div>
                                 <div class="col-12 text-center">
-<<<<<<< HEAD
-                                    <a href="index.html" title="" class="btn btn-lg btn-block btn-light lift text-uppercase">Back to Home</a>
-=======
                                     <a href="home" title="" class="btn btn-lg btn-block btn-light lift text-uppercase">Back to Home</a>
->>>>>>> 22e3733 (initial commit)
                                 </div>
                             </form>
                             <!-- End Form -->

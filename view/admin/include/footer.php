@@ -8,12 +8,7 @@
             <div class="modal-body">
                 <div class="inviteby_email">
                     <div class="input-group mb-3">
-<<<<<<< HEAD
                         <input type="email" class="form-control" placeholder="Email address" id="exampleInputEmail1" aria-describedby="exampleInputEmail1">
-=======
-                        <input type="email" class="form-control" placeholder="Email address" id="exampleInputEmail1"
-                               aria-describedby="exampleInputEmail1">
->>>>>>> 22e3733 (initial commit)
                         <button class="btn btn-dark" type="button" id="button-addon2">Sent</button>
                     </div>
                 </div>
@@ -23,12 +18,7 @@
                         <li class="list-group-item py-3 text-center text-md-start">
                             <div class="d-flex align-items-center flex-column flex-sm-column flex-md-column flex-lg-row">
                                 <div class="no-thumbnail mb-2 mb-md-0">
-<<<<<<< HEAD
                                     <img class="avatar lg rounded-circle" src="public/assets/images/xs/avatar2.jpg" alt="">
-=======
-                                    <img class="avatar lg rounded-circle" src="public/assets/images/xs/avatar2.jpg"
-                                         alt="">
->>>>>>> 22e3733 (initial commit)
                                 </div>
                                 <div class="flex-fill ms-3 text-truncate">
                                     <h6 class="mb-0  fw-bold">Rachel Carr(you)</h6>
@@ -37,26 +27,12 @@
                                 <div class="members-action">
                                     <span class="members-role ">Admin</span>
                                     <div class="btn-group">
-<<<<<<< HEAD
                                         <button type="button" class="btn bg-transparent dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                                             <i class="icofont-ui-settings  fs-6"></i>
                                         </button>
                                         <ul class="dropdown-menu dropdown-menu-end">
                                             <li><a class="dropdown-item" href="#"><i class="icofont-ui-password fs-6 me-2"></i>ResetPassword</a></li>
                                             <li><a class="dropdown-item" href="#"><i class="icofont-chart-line fs-6 me-2"></i>ActivityReport</a></li>
-=======
-                                        <button type="button" class="btn bg-transparent dropdown-toggle"
-                                                data-bs-toggle="dropdown" aria-expanded="false">
-                                            <i class="icofont-ui-settings  fs-6"></i>
-                                        </button>
-                                        <ul class="dropdown-menu dropdown-menu-end">
-                                            <li><a class="dropdown-item" href="#"><i
-                                                            class="icofont-ui-password fs-6 me-2"></i>ResetPassword</a>
-                                            </li>
-                                            <li><a class="dropdown-item" href="#"><i
-                                                            class="icofont-chart-line fs-6 me-2"></i>ActivityReport</a>
-                                            </li>
->>>>>>> 22e3733 (initial commit)
                                         </ul>
                                     </div>
                                 </div>
@@ -65,29 +41,15 @@
                         <li class="list-group-item py-3 text-center text-md-start">
                             <div class="d-flex align-items-center flex-column flex-sm-column flex-md-column flex-lg-row">
                                 <div class="no-thumbnail mb-2 mb-md-0">
-<<<<<<< HEAD
                                     <img class="avatar lg rounded-circle" src="public/assets/images/xs/avatar3.jpg" alt="">
                                 </div>
                                 <div class="flex-fill ms-3 text-truncate">
                                     <h6 class="mb-0  fw-bold">Lucas Baker<a href="#" class="link-secondary ms-2">(Resend invitation)</a></h6>
-=======
-                                    <img class="avatar lg rounded-circle" src="public/assets/images/xs/avatar3.jpg"
-                                         alt="">
-                                </div>
-                                <div class="flex-fill ms-3 text-truncate">
-                                    <h6 class="mb-0  fw-bold">Lucas Baker<a href="#" class="link-secondary ms-2">(Resend
-                                            invitation)</a></h6>
->>>>>>> 22e3733 (initial commit)
                                     <span class="text-muted">lucas.baker@gmail.com</span>
                                 </div>
                                 <div class="members-action">
                                     <div class="btn-group">
-<<<<<<< HEAD
                                         <button type="button" class="btn bg-transparent dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-=======
-                                        <button type="button" class="btn bg-transparent dropdown-toggle"
-                                                data-bs-toggle="dropdown" aria-expanded="false">
->>>>>>> 22e3733 (initial commit)
                                             Members
                                         </button>
                                         <ul class="dropdown-menu dropdown-menu-end">
@@ -108,22 +70,11 @@
                                         </ul>
                                     </div>
                                     <div class="btn-group">
-<<<<<<< HEAD
                                         <button type="button" class="btn bg-transparent dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                                             <i class="icofont-ui-settings  fs-6"></i>
                                         </button>
                                         <ul class="dropdown-menu dropdown-menu-end">
                                             <li><a class="dropdown-item" href="#"><i class="icofont-delete-alt fs-6 me-2"></i>Delete Member</a></li>
-=======
-                                        <button type="button" class="btn bg-transparent dropdown-toggle"
-                                                data-bs-toggle="dropdown" aria-expanded="false">
-                                            <i class="icofont-ui-settings  fs-6"></i>
-                                        </button>
-                                        <ul class="dropdown-menu dropdown-menu-end">
-                                            <li><a class="dropdown-item" href="#"><i
-                                                            class="icofont-delete-alt fs-6 me-2"></i>Delete Member</a>
-                                            </li>
->>>>>>> 22e3733 (initial commit)
                                         </ul>
                                     </div>
                                 </div>
@@ -132,12 +83,7 @@
                         <li class="list-group-item py-3 text-center text-md-start">
                             <div class="d-flex align-items-center flex-column flex-sm-column flex-md-column flex-lg-row">
                                 <div class="no-thumbnail mb-2 mb-md-0">
-<<<<<<< HEAD
                                     <img class="avatar lg rounded-circle" src="public/assets/images/xs/avatar8.jpg" alt="">
-=======
-                                    <img class="avatar lg rounded-circle" src="public/assets/images/xs/avatar8.jpg"
-                                         alt="">
->>>>>>> 22e3733 (initial commit)
                                 </div>
                                 <div class="flex-fill ms-3 text-truncate">
                                     <h6 class="mb-0  fw-bold">Una Coleman</h6>
@@ -145,12 +91,7 @@
                                 </div>
                                 <div class="members-action">
                                     <div class="btn-group">
-<<<<<<< HEAD
                                         <button type="button" class="btn bg-transparent dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-=======
-                                        <button type="button" class="btn bg-transparent dropdown-toggle"
-                                                data-bs-toggle="dropdown" aria-expanded="false">
->>>>>>> 22e3733 (initial commit)
                                             Members
                                         </button>
                                         <ul class="dropdown-menu dropdown-menu-end">
@@ -171,7 +112,6 @@
                                     </div>
                                     <div class="btn-group">
                                         <div class="btn-group">
-<<<<<<< HEAD
                                             <button type="button" class="btn bg-transparent dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                                                 <i class="icofont-ui-settings  fs-6"></i>
                                             </button>
@@ -180,25 +120,6 @@
                                                 <li><a class="dropdown-item" href="#"><i class="icofont-chart-line fs-6 me-2"></i>ActivityReport</a></li>
                                                 <li><a class="dropdown-item" href="#"><i class="icofont-delete-alt fs-6 me-2"></i>Suspend member</a></li>
                                                 <li><a class="dropdown-item" href="#"><i class="icofont-not-allowed fs-6 me-2"></i>Delete Member</a></li>
-=======
-                                            <button type="button" class="btn bg-transparent dropdown-toggle"
-                                                    data-bs-toggle="dropdown" aria-expanded="false">
-                                                <i class="icofont-ui-settings  fs-6"></i>
-                                            </button>
-                                            <ul class="dropdown-menu dropdown-menu-end">
-                                                <li><a class="dropdown-item" href="#"><i
-                                                                class="icofont-ui-password fs-6 me-2"></i>ResetPassword</a>
-                                                </li>
-                                                <li><a class="dropdown-item" href="#"><i
-                                                                class="icofont-chart-line fs-6 me-2"></i>ActivityReport</a>
-                                                </li>
-                                                <li><a class="dropdown-item" href="#"><i
-                                                                class="icofont-delete-alt fs-6 me-2"></i>Suspend member</a>
-                                                </li>
-                                                <li><a class="dropdown-item" href="#"><i
-                                                                class="icofont-not-allowed fs-6 me-2"></i>Delete Member</a>
-                                                </li>
->>>>>>> 22e3733 (initial commit)
                                             </ul>
                                         </div>
                                     </div>
@@ -215,50 +136,17 @@
 </div>
 
 <!-- Jquery Core Js -->
-<<<<<<< HEAD
 <script src="public/assets/bundles/libscripts.bundle.js"></script>
 
 <!-- Plugin Js-->
 <script src="public/assets/bundles/apexcharts.bundle.js"></script>
-=======
-<script src="public/js/libscripts.bundle.js"></script>
-
-<!-- Plugin Js-->
-<script src="public/js/apexcharts.bundle.js"></script>
-<script src="public/js/dataTables.bundle.js"></script>
->>>>>>> 22e3733 (initial commit)
+<script src="public/assets/bundles/dataTables.bundle.js"></script>
 
 <!-- Jquery Page Js -->
 <script src="public/js/template.js"></script>
 <script src="public/js/page/hr.js"></script>
-<<<<<<< HEAD
-=======
+<script src="public/js/income-table.js"></script>
 <script src="public/js/chart.min.js"></script>
-<script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
-
-
-
-<script>
-    function showToast(color, title, message) {
-        Command: toastr[color](message, title)
-
-        toastr.options = {
-            "closeButton": true,
-            "newestOnTop": true,
-            "progressBar": true,
-            "positionClass": "toast-top-right",
-            "timeOut": "5000",
-            "extendedTimeOut": "1000",
-            "showEasing": "swing",
-            "hideEasing": "linear",
-            "showMethod": "fadeIn",
-            "hideMethod": "fadeOut"
-        }
-    }
-
-</script>
-
 
 <script>
     const ctx = document.getElementById('myChart').getContext('2d');
@@ -335,6 +223,5 @@
     });
 </script>
 
->>>>>>> 22e3733 (initial commit)
 </body>
 </html>

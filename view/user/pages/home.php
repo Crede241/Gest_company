@@ -69,7 +69,11 @@ ob_start();
                             <div class="col-md-6">
                                 <div class="card">
                                     <div class="card-header py-3 d-flex justify-content-between bg-transparent border-bottom-0">
+<<<<<<< HEAD
                                         <h6 class="mb-0 fw-bold ">Total Employees</h6>
+=======
+                                        <h6 class="mb-0 fw-bold ">Total Utilisateurs</h6>
+>>>>>>> 22e3733 (initial commit)
                                         <h4 class="mb-0 fw-bold ">423</h4>
                                     </div>
                                     <div class="card-body">
@@ -96,11 +100,16 @@ ob_start();
                                     <div class="card-body row">
                                         <div class="col">
                                             <span class="avatar lg bg-white rounded-circle text-center d-flex align-items-center justify-content-center"><i class="icofont-file-text fs-5"></i></span>
+<<<<<<< HEAD
                                             <h1 class="mt-3 mb-0 fw-bold text-white">1546</h1>
                                             <span class="text-white">Applications</span>
                                         </div>
                                         <div class="col">
                                             <img class="img-fluid" src="assets/images/interview.svg" alt="interview">
+=======
+                                            <h3 class="mt-3 mb-0 fw-bold text-white"><?= number_format($company->getFunds(),0,","," ")   ?> FCFA </h3>
+                                            <span class="text-white">Capital de l'Entreprise</span>
+>>>>>>> 22e3733 (initial commit)
                                         </div>
                                     </div>
                                 </div>
@@ -112,7 +121,11 @@ ob_start();
                                             <span class="avatar lg light-success-bg rounded-circle text-center d-flex align-items-center justify-content-center"><i class="icofont-users-alt-2 fs-5"></i></span>
                                             <div class="d-flex flex-column ps-3  flex-fill">
                                                 <h6 class="fw-bold mb-0 fs-4">246</h6>
+<<<<<<< HEAD
                                                 <span class="text-muted">Interviews</span>
+=======
+                                                <span class="text-muted">Dépenses</span>
+>>>>>>> 22e3733 (initial commit)
                                             </div>
                                             <i class="icofont-chart-bar-graph fs-3 text-muted"></i>
                                         </div>
@@ -124,13 +137,18 @@ ob_start();
                                             <span class="avatar lg light-success-bg rounded-circle text-center d-flex align-items-center justify-content-center"><i class="icofont-holding-hands fs-5"></i></span>
                                             <div class="d-flex flex-column ps-3 flex-fill">
                                                 <h6 class="fw-bold mb-0 fs-4">101</h6>
+<<<<<<< HEAD
                                                 <span class="text-muted">Hired</span>
+=======
+                                                <span class="text-muted">Entrées</span>
+>>>>>>> 22e3733 (initial commit)
                                             </div>
                                             <i class="icofont-chart-line fs-3 text-muted"></i>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+<<<<<<< HEAD
                             <div class="col-md-12 col-lg-12 col-xl-12">
                                 <div class="card">
                                 <div class="card-header py-3 d-flex justify-content-between bg-transparent border-bottom-0">
@@ -317,6 +335,11 @@ ob_start();
                         </div>
                     </div>
                 </div><!-- Row End -->
+=======
+
+                    </div>
+
+>>>>>>> 22e3733 (initial commit)
             </div>
         </div> 
 <?php
